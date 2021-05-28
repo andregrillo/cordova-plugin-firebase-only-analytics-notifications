@@ -14,6 +14,7 @@
     <clobbers target="fp" />
   </js-module>
 
+  <dependency id="cordova-outsystems-FirebaseCore" url="https://github.com/andregrillo/cordova-outsystems-FirebaseCore.git"/>
   <!--
   <hook type="before_plugin_install" src="scripts/configurations/installDependencies.js" />
   <hook type="before_plugin_install" src="scripts/configurations/unzipAndCopyConfigurations.js" />
